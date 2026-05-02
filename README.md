@@ -3,7 +3,7 @@
 A basic responsive website built with HTML5 and CSS3. Contains Home, About, and Login pages. Perfect for beginners learning web fundamentals.
 
 ### **Live Demo**
-[View Site](https://yourusername.github.io/simple-website) ← Update after enabling GitHub Pages
+[View Site](https://devwilliams33.github.io/simple-website) ← Update after enabling GitHub Pages
 
 ### **Pages Included**
 1. **Home** - `index.html` - Landing page with hero section and site intro
